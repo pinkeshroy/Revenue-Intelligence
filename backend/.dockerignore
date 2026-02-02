@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+dist
+*.db
+.env.local
+.env.development
+coverage
+.nyc_output
+*.log
